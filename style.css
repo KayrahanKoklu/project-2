@@ -459,7 +459,7 @@ img{
   display: flex;
   justify-content: center;
   flex-direction: column;
-  gap: var(--space-sm);
+  gap: var(--space-lg);
 }
 .services .item button{
   border-radius: var(--radius-md);
